@@ -1,0 +1,1 @@
+Note(id=0, title=Экзамены, description=Сдать все предметы, localDateTime=2024-05-05T18:05:03.110725200)
